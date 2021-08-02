@@ -1,0 +1,72 @@
+.shadow1{
+    justify-content: center;
+    text-align: start;
+    height: 45px;
+    width: 85%;
+    margin-left: auto;
+    margin-right: 20px;
+    margin-top: 10px;
+    border-bottom: 1px solid #d4cdcd;
+    margin-bottom: 5%;
+    
+    border-radius: 5px;
+}
+.icn-input{
+    font-size: 20px;
+    color: #040a07c7;
+    position: absolute;
+    left: -8%;
+    top: 13px;
+}
+.card_box{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    display: flex;
+    width: 95%;
+    margin: auto;
+}
+.card_box_2{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    display: flex;
+    width: 95%;
+    margin: auto;
+    margin-top: 5px;
+}
+.card_header{
+    width: 50%;
+    padding: 5px;
+    padding-left: 10px;
+}
+.name_tittle{
+    margin-top: 5px;
+    font-size: 16px;
+}
+.span_subtitle{
+    margin-top: 10px;
+    font-size: 11px;
+}
+.subtitle_span{
+    color: #4ca78e;
+    padding-right: 5px;
+    font-size: 11px;
+}
+.card_content{
+    width: 50%;
+    padding: 5px;
+    padding-right: 10px;
+}
+.card_subtitle_product_num{
+    text-align: end;
+    font-size: 11px;
+}
+.card_title_amount{
+    text-align: end;
+    margin-top: 10px;
+    font-size: 16px;
+}
+.card_subtitle_aprovel{
+    text-align: end;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #f50404;
+    font-size: 11px;
+}

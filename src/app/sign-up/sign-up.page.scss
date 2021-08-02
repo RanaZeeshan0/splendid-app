@@ -1,0 +1,92 @@
+.round{
+    width: 100px;
+    height: 100px;
+    
+    // background: linear-gradient( rgb(65,238,238) 100%, rgb(0,179,243) 100%) ;
+    border-radius: 90px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20%;
+}
+
+.tittle{
+    text-align: center;
+    font-size: 20px;
+    color: #73d4f1;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.shadow1{
+    justify-content: center;
+    text-align: center;
+    height: 45px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    
+    border: 1px solid #ebebeb;
+    margin-bottom: 5%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 5px;
+}
+.shadow2{
+    justify-content: center;
+    text-align: center;
+    height: 45px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #ebebeb;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 5px;
+    margin-bottom: 5%;
+}
+.icn-input{
+    font-size: 20px;
+    color: #2f58437d;
+    position: absolute;
+    left: 5%;
+}
+.startbutton{
+width: 80%;
+
+--background: linear-gradient( rgb(45 152 123 / 85%) 100%, rgb(130 179 34) 100%);
+text-align: center;
+text-transform: capitalize;
+margin-top: 25px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+.creatAcontBtn{
+    width: 80%;
+    
+    --background: linear-gradient( rgb(90 182 236) 100%, rgb(0,179,243) 100%);
+    text-align: center;
+    text-transform: capitalize;
+    
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    }
+a{
+    text-decoration: none;
+}
+.l-pasword{
+    color: #4ca78e;
+    margin-top: 10px;
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    text-transform: none;
+    font-size: 15px;
+}
+.register{
+    color: #a6a6a6;
+    margin-top: 20%;
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    text-transform: capitalize;
+    font-size: 15px;
+}

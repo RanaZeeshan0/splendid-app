@@ -1,0 +1,133 @@
+.card_box{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    display: flex;
+    width: 95%;
+    margin: auto;
+}
+.card_box_2{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    display: flex;
+    width: 95%;
+    margin: auto;
+    margin-top: 5px;
+}
+.card_header{
+    width: 65%;
+    padding: 5px;
+    padding-bottom: 0;
+    
+}
+.name_tittle{
+    margin-top: 12px;
+    font-size: 16px; 
+    padding-left: 10px;
+}
+.span_subtitle{
+    margin-top: 6px;
+    font-size: 11px;
+    padding-left: 10px;
+}
+.subtitle_span{
+    color: #4ca78e;
+    padding-right: 5px;
+    font-size: 13px;
+    padding-left: 6px;
+    font-weight: 800;
+}
+.card_content{
+    width: 35%;
+    padding: 5px;
+    padding-right: 10px;
+}
+.card_subtitle_product_num{
+    text-align: end;
+    font-size: 11px;
+    margin-top: 13px;
+    text-transform: capitalize;
+}
+.card_title_amount{
+    text-align: end;
+    margin-top: 10px;
+    font-size: 16px;
+}
+.card_subtitle_aprovel{
+    text-align: end;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    color: black;
+    font-size: 11px;
+}
+.icn-box1{
+    
+    background-image: linear-gradient(to right,#b57fff,#8a7fff);
+    display: block;
+    float: left;
+    height: 71px;
+    width: 90px;
+    text-align: center;
+    font-size: 40px;
+    line-height: 70px;
+    margin: 10px;
+    border-radius: 2px 0 0 2px;
+    color: #fff;
+    margin-left: 5px;
+}
+.icn-box2{
+    
+    background-image: linear-gradient(to right,#40dcb2,#40dc7e);
+    display: block;
+    float: left;
+    height: 71px;
+    width: 90px;
+    text-align: center;
+    font-size: 40px;
+    line-height: 70px;
+    margin: 10px;
+    border-radius: 2px 0 0 2px;
+    color: #fff;
+    margin-left: 5px;
+}
+.icn-box3{
+    
+    background-image: linear-gradient(to right,#4cc4ff,#4ca6ff);
+    display: block;
+    float: left;
+    height: 71px;
+    width: 90px;
+    text-align: center;
+    font-size: 40px;
+    line-height: 70px;
+    margin: 10px;
+    border-radius: 2px 0 0 2px;
+    color: #fff;
+    margin-left: 5px;
+}
+.icn-box4{
+    
+    background-image: linear-gradient(to right,#fc0,#ffa100);
+    display: block;
+    float: left;
+    height: 71px;
+    width: 90px;
+    text-align: center;
+    font-size: 40px;
+    line-height: 70px;
+    margin: 10px;
+    border-radius: 2px 0 0 2px;
+    color: #fff;
+    margin-left: 5px;
+}
+table {
+    font-family: arial, sans-serif;
+    
+    width: 100%;
+  }
+  
+  td, th {
+    
+    text-align: left;
+    padding: 8px;
+  }
+  th {
+    background-color: #dddddd;
+  }
